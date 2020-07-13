@@ -1,3 +1,3 @@
 # javaBasic
 
-Primera prueba con git
+Aqui hablaremos de java basico
